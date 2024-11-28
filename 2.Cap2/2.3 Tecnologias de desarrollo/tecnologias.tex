@@ -53,27 +53,57 @@ Una red neuronal convolucional es un tipo de red neuronal artificial donde las n
 
 Es una disciplina científica que incluye métodos para adquirir, procesar, analizar y comprender las imágenes del mundo real con el fin de producir información numérica o simbólica para que puedan ser tratados por un ordenador. Tal y como los seres humanos usamos nuestros ojos y cerebros para comprender el mundo que nos rodea, la visión informática trata de producir el mismo efecto para que los ordenadores puedan percibir y comprender una imagen o secuencia de imágenes y actuar según convenga en una determinada situación. Esta comprensión se consigue gracias a distintos campos como la geometría, la estadística, la física y otras disciplinas. La adquisición de los datos se consigue por varios medios como secuencias de imágenes, vistas desde varias cámaras de video o datos multidimensionales desde un escáner médico~\cite{vision_artificial}.
 
-\subsection{Open CV}
+\subsection{TensorFlow Lite}
 
-\textbf{OpenCV} es una biblioteca libre de visión artificial originalmente desarrollada por Intel. OpenCV significa Open Computer Vision (Visión Artificial Abierta). OpenCV ofrece soporte para varios sistemas operativos y varias arquitecturas de hardware, pero también ofrece el código fuente para que cualquier desarrollador lo compile en cualquier sistemas operativo y arquitectura particular~\cite{opencv}. 
+\textbf{TensorFlow Lite}, ahora conocido como LiteRT (abreviatura de Lite Runtime), es el entorno de ejecución de alto rendimiento de Google para IA en dispositivos. Se pueden encontrar modelos LiteRT listos para ejecutar para una amplia gama de tareas de ML/IA, o convertir y ejecutar modelos TensorFlow, PyTorch y JAX al formato TFLite mediante las herramientas de conversión y optimización de AI Edge.~\cite{tensorflowlite_google}. 
 
-OpenCV y ESP32 se pueden utilizar juntos para crear sistemas de visión integrados, en los que se pueden ejecutar tareas de visión por computadora simples en un microcontrolador ESP32.
+Características principales:
 
-\begin{figure}[htb]
+\begin{itemize}
+    \item \textbf{Optimizado para el aprendizaje automático en el dispositivo}: LiteRT aborda cinco restricciones clave de ODML: latencia (no hay viaje de ida y vuelta a un servidor), privacidad (ningún dato personal sale del dispositivo), conectividad (no se requiere conectividad a Internet), tamaño (modelo reducido y tamaño binario) y consumo de energía (inferencia eficiente y falta de conexiones de red).
+    \item \textbf{Compatibilidad con múltiples plataformas}: compatible con dispositivos Android e iOS, Linux integrado y microcontroladores.
+    \item \textbf{Opciones de modelos de múltiples marcos}: AI Edge proporciona herramientas para convertir modelos de TensorFlow, PyTorch y JAX al formato FlatBuffers (.tflite), lo que le permite utilizar una amplia gama de modelos de última generación en LiteRT. También tiene acceso a herramientas de optimización de modelos que pueden manejar la cuantificación y los metadatos.
+    \item \textbf{Compatibilidad con diversos lenguajes}: incluye SDK para Java/Kotlin, Swift, Objective-C, C++ y Python.
+    \item \textbf{Alto rendimiento}: aceleración de hardware a través de delegados especializados como GPU y iOS Core ML.
+\end{itemize}
+
+\begin{figure}[H]
 	\centering
-	\includegraphics[scale  = 0.80]{Imagenes/opencv.png}
-	\caption{Logo de OpenCV}{Fuente: Adaptado de~\cite{opencv}}
-
+	\includegraphics[scale  = 0.30]{Imagenes/tensorflow-lite.png}
+	\caption{Logo de TensorFlow Lite}{Fuente: Adaptado de~\cite{tensorflowlite_wiki}}
 \end{figure}
 
-\subsubsection{Numpy}
+\subsubsection{Edge Impulse}
 
-NumPy es una biblioteca para el lenguaje de programación Python, que agrega soporte para matrices y arreglos multidimensionales grandes, junto con una gran colección de funciones matemáticas de alto nivel para operar en estos arreglos~\cite{numpy}.
+\textbf{Edge Impulse} es una plataforma de desarrollo de aprendizaje automático (ML) diseñada específicamente para dispositivos de computación en el borde (edge devices). Permite a los desarrolladores crear, entrenar, implementar y optimizar modelos de inteligencia artificial para dispositivos con recursos limitados, como microcontroladores, sensores y otros dispositivos IoT.~\cite{edge_impulse}
+
+Características principales:
+
+\begin{itemize}
+    \item \textbf{Captura y preprocesamiento de datos}: Proporciona herramientas para recolectar datos desde dispositivos conectados y prepararlos para el entrenamiento de modelos.
+    \item \textbf{Entrenamiento de modelos ML}: Ofrece un entorno simplificado para entrenar modelos utilizando aprendizaje supervisado o no supervisado.
+    \item \textbf{Optimización para el borde}: Los modelos generados son ligeros, eficientes en energía y optimizados para ejecutarse directamente en dispositivos con hardware limitado.
+    \item \textbf{Compatibilidad con hardware}: Soporta múltiples plataformas, como Arduino, Raspberry Pi, ESP32, y más.
+    \item \textbf{Despliegue y análisis}: Permite implementar los modelos en dispositivos reales y analizar su rendimiento en tiempo real.
+\end{itemize}
 
 \begin{figure}[htb]
 	\centering
-	\includegraphics[scale  = 0.80]{Imagenes/numpy.png}
-	\caption{Logo de Numpy}{Fuente: Adaptado de~\cite{numpy}}
+	\includegraphics[scale  = 0.20]{Imagenes/edge-impulse-flujo.png}
+	\caption{Flujo de trabajo de Edge Impulse}{Fuente: Adaptado de~\cite{edge_impulse}}
+\end{figure}
+
+La tecnología artificial de borde permite:
+
+\begin{itemize}
+    \item \textbf{Entornos de fabricación y operaciones}:La inteligencia artificial de borde ofrece un inmenso potencial para mitigar pérdidas financieras significativas al abordar problemas como el tiempo de inactividad de las máquinas, la ineficiencia y los problemas de control de calidad mediante la detección temprana de anomalías. La implementación de inteligencia artificial de borde en la fuente de datos mejora la seguridad, reduce la latencia y acelera la toma de decisiones para los operadores de servicios, los equipos de control de calidad y otras partes interesadas, lo que en última instancia mejora la calidad y la eficiencia.
+    \item \textbf{Desarrollo de productos}:Acelera el desarrollo y aumenta drásticamente las posibilidades de implementar con éxito la inteligencia artificial de borde. Realiza iteraciones rápidas para validar ideas en una plataforma que promueva la colaboración entre equipos.
+\end{itemize}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale  = 0.80]{Imagenes/edge-impulse-logo.png}
+	\caption{Logo de Edge Impulse}{Fuente: Adaptado de~\cite{edge_impulse}}
 \end{figure}
 
 \subsection{XIAO ESP32 CAM}
@@ -83,6 +113,24 @@ El ESP32-CAM es un módulo de cámara muy pequeño y económico que cuenta con e
 	\centering
 	\includegraphics[scale  = 0.70]{Imagenes/xiao.png}
 	\caption{XIAO ESP32 CAM}{Fuente: Adaptado de~\cite{foto_xiao}}
+\end{figure}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale  = 0.40]{Imagenes/diagrama_pines.png}
+	\caption{Diagrama de pines}{Fuente: Adaptado de~\cite{esp32_wiki}}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[scale  = 0.20]{Imagenes/parte_frontal.png}
+	\caption{Componentes frontales}{Fuente: Adaptado de~\cite{esp32_wiki}}
+\end{figure}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale  = 0.20]{Imagenes/parte_trasera.png}
+	\caption{Componentes traseros}{Fuente: Adaptado de~\cite{esp32_wiki}}
 \end{figure}
 
 A continuación, se presenta el DataSheet encontrado.
@@ -165,7 +213,7 @@ Este sensor mide la distancia entre el sensor y el nivel de basura dentro del cu
 
 Estos componentes se utilizan para conectar todos los sensores, microcontroladores y actuadores de manera temporal o durante la fase de pruebas. Los cables jumper permiten hacer conexiones rápidas entre pines, y la protoboard facilita las conexiones sin necesidad de soldar.
 
-\begin{figure}[htb]
+\begin{figure}[H]
 	\centering
 	\includegraphics[scale  = 0.50]{Imagenes/jumper.jpg}
 	\caption{Jumpers}{Fuente: Propia}
@@ -183,20 +231,36 @@ Estos componentes se utilizan para conectar todos los sensores, microcontrolador
 	\caption{ProtoBoard}{Fuente: Propia}
 \end{figure}
 
-\subsection{Servomotor (SG90)}
-El SG90 es un servo miniatura de gran calidad y diminutas dimensiones, además es bastante económico. Funciona con la mayoría de las tarjetas electrónicas de control con microcontroladores y además con la mayoría de los sistemas de radio control comerciales. Funciona especialmente bien en aeronaves dadas sus características de torque, tamaño y peso.
+\subsection{Servomotor (MG995)}
+El \textbf{MG995} es un servo motor de gran calidad y potencia. Incluye un cable de 30 cm y un conector hembra tipo "S" de 3 pines que se adapta a la mayoría de los receptores, incluidos Futaba, JR, GWS, Cirrus, Blue Bird, Blue Arrow, Corona, Berg, Spektrum y Hitec.
 
-El servo SG90 tiene un conector universal tipo “S” que encaja perfectamente en la mayoría de los receptores de radio control incluyendo los Futaba, JR, GWS, Cirrus, Hitec y otros. Los cables en el conector están distribuidos de la siguiente forma: Rojo = Alimentación (+), Cafe = Alimentación (-) o tierra, Naranjo = Señal PWM.
-
-Este tipo de servo es ideal para las primeras experiencias de aprendizaje y prácticas con servos, ya que sus requerimientos de energía son bastante bajos y se permite alimentarlo con la misma fuente de alimentación que el circuito de control. Por ejemplo, si se conecta a una tarjeta arduino, se puede alimentar durante las pruebas desde el puerto USB de la PC sin mayor problema~\cite{servo_motor}.
+Este servo estándar de alta velocidad puede girar aproximadamente 120 grados (60 en cada dirección). Se puede usar cualquier código, hardware o biblioteca de servo para controlar estos servos, por lo que es ideal para principiantes que quieren hacer que las cosas se muevan sin construir un controlador de motor con retroalimentación y caja de cambios, especialmente porque cabe en lugares pequeños. El servo con engranajes metálicos MG995 también viene con una selección de brazos y hardware para que poder configurarlo de manera rápida y sencilla.~\cite{servo_motor}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[scale  = 0.50]{Imagenes/micro.jpg}
-	\caption{Mini Sevo motor}{Fuente: Adaptado de~\cite{servo_motor}}
+	\includegraphics[scale  = 0.50]{Imagenes/servo_motor.png}
+	\caption{Servo motor MG995}{Fuente: Adaptado de~\cite{servo_motor}}
 \end{figure}
 
-A continuación, se muestra el DataSheet encontrado:
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale  = 0.50]{Imagenes/dimensiones_servo.png}
+	\caption{Dimensiones del servo motor}{Fuente: Adaptado de~\cite{servo_motor}}
+\end{figure}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale  = 0.50]{Imagenes/cables_servo.png}
+	\caption{Distribución de cables}{Fuente: Adaptado de~\cite{servo_motor}}
+\end{figure}
+
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale  = 0.50]{Imagenes/consumo_servo.png}
+	\caption{Consumo de energía}{Fuente: Adaptado de~\cite{servo_motor}}
+\end{figure}
+
+A continuación, se muestran las características técnicas extraidas del DataSheet encontrado:
 
 \begin{table}[H]
     \centering
@@ -204,23 +268,30 @@ A continuación, se muestra el DataSheet encontrado:
         \hline
         \textbf{Especificación} & \textbf{Descripción} \\ 
         \hline
-        \textbf{Dimensiones} & 22mm x 11,5mm x 27mm \\ 
+        \textbf{Dimensiones} & 40.7 mm x 19.7 mm x 42.9 mm \\ 
         \hline
-        \textbf{Peso} & 9 gramos \\ 
+        \textbf{Peso} & 55 g \\ 
         \hline
-        \textbf{Peso con cable y conector} & 10.6 gramos \\ 
+        \textbf{Ángulo de rotación} & 120º (60º en cada dirección) \\ 
         \hline
-        \textbf{Torque a 4.8 volts} & 1.2 kg/cm \\ 
+        \textbf{Torque detenido} & 8.5 kgf*cm (4.8 V), 10 kgf*cm (6 V) \\ 
         \hline
-        \textbf{Voltaje de operación} & 4.0 a 7.2 volts \\ 
+        \textbf{Banda muerta} & 5 $\mu$s \\
         \hline
-        \textbf{Velocidad de giro a 4.8 volts} & 120 ms / 60 º \\ 
+        \textbf{Largo del cable} & 31 cm \\
+        \hline
+        \textbf{Voltaje de operación} & 4.8 a 7.2 V \\ 
+        \hline
+        \textbf{Velocidad de operación} & 0.2 s/60º (4.8 V), 0.16 s/60º (6 V)\\ 
+        \hline
+        \textbf{Rango de temperatura} & 0 a 55 ºC  \\
         \hline
         \textbf{Conector} & Universal para la mayoría de los receptores de radio control \\ 
         \hline
-        \textbf{Compatibilidad} & Compatible con tarjetas como Arduino y microcontroladores que funcionan a 5 volts. \\ 
+        \textbf{Compatibilidad} & Compatible con tarjetas como Arduino y microcontroladores que funcionan a 5 V. \\ 
         \hline
     \end{tabularx}
-    \caption{Especificaciones del SG90}{Fuente: Adaptado de~\cite{servo_motor}}
-    \label{tab:especificaciones_sg90}
+    \caption{Especificaciones del MG995}{Fuente: Adaptado de~\cite{servo_motor}}
+    \label{tab:especificaciones_mg995}
 \end{table}
+

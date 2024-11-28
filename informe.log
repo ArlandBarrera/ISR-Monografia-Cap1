@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.13)  15 OCT 2024 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.13)  28 NOV 2024 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -754,16 +754,16 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3.
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) (1.Cap1/1.5.Justificacion.tex [8{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (1.Cap1/1.6.Delimitaciones.tex) [9]
 Chapter 2.
-(2.1 Area de Investigacion/Inteligencia artificial en el reciclaje.tex [10
+(2.Cap2/2.1 Area de Investigacion/2.1.1.Inteligencia artificial en el reciclaje.tex [10
 
 ]
-<Imagenes/CAP2_elementos_microcontrolador.png, id=430, 293.29575pt x 158.994pt>
+<Imagenes/CAP2_elementos_microcontrolador.png, id=444, 293.29575pt x 158.994pt>
 File: Imagenes/CAP2_elementos_microcontrolador.png Graphic file (type png)
 <use Imagenes/CAP2_elementos_microcontrolador.png>
 Package pdftex.def Info: Imagenes/CAP2_elementos_microcontrolador.png  used on input line 33.
 (pdftex.def)             Requested size: 278.62936pt x 151.04343pt.
-) (2.1 Area de Investigacion/ard_esp32.tex [11]
-<Imagenes/ardr3.jpg, id=440, 341.275pt x 170.6375pt>
+) (2.Cap2/2.1 Area de Investigacion/2.1.4.ard_esp32.tex [11]
+<Imagenes/ardr3.jpg, id=454, 341.275pt x 170.6375pt>
 File: Imagenes/ardr3.jpg Graphic file (type jpg)
 <use Imagenes/ardr3.jpg>
 Package pdftex.def Info: Imagenes/ardr3.jpg  used on input line 15.
@@ -772,65 +772,65 @@ Package pdftex.def Info: Imagenes/ardr3.jpg  used on input line 15.
 Underfull \vbox (badness 7151) has occurred while \output is active []
 
  [12 <./Imagenes/CAP2_elementos_microcontrolador.png>]
-<Imagenes/esp32cam.jpg, id=448, 161.9505pt x 161.9505pt>
+<Imagenes/esp32cam.jpg, id=462, 161.9505pt x 161.9505pt>
 File: Imagenes/esp32cam.jpg Graphic file (type jpg)
 <use Imagenes/esp32cam.jpg>
 Package pdftex.def Info: Imagenes/esp32cam.jpg  used on input line 27.
 (pdftex.def)             Requested size: 80.97505pt x 80.97505pt.
  [13 <./Imagenes/ardr3.jpg> <./Imagenes/esp32cam.jpg>]
-<Imagenes/xiao esp32cam.png, id=458, 313.17pt x 260.172pt>
+<Imagenes/xiao esp32cam.png, id=472, 313.17pt x 260.172pt>
 File: Imagenes/xiao esp32cam.png Graphic file (type png)
 <use Imagenes/xiao esp32cam.png>
 Package pdftex.def Info: Imagenes/xiao esp32cam.png  used on input line 35.
 (pdftex.def)             Requested size: 156.58461pt x 130.08566pt.
-) (2.1 Area de Investigacion/sistemas_clas_aut.tex [14 <./Imagenes/xiao esp32cam.png>]
-<Imagenes/maxim.png, id=469, 250.536pt x 203.5605pt>
+) (2.Cap2/2.1 Area de Investigacion/2.1.5.sistemas_clas_aut.tex [14 <./Imagenes/xiao esp32cam.png>]
+<Imagenes/maxim.png, id=483, 250.536pt x 203.5605pt>
 File: Imagenes/maxim.png Graphic file (type png)
 <use Imagenes/maxim.png>
 Package pdftex.def Info: Imagenes/maxim.png  used on input line 16.
 (pdftex.def)             Requested size: 175.374pt x 142.49136pt.
-) (2.1 Area de Investigacion/iot.tex [15 <./Imagenes/maxim.png>]
-<Imagenes/iot.jpg, id=478, 257.2155pt x 144.54pt>
+) (2.Cap2/2.1 Area de Investigacion/2.1.6.iot.tex [15 <./Imagenes/maxim.png>]
+<Imagenes/iot.jpg, id=492, 257.2155pt x 144.54pt>
 File: Imagenes/iot.jpg Graphic file (type jpg)
 <use Imagenes/iot.jpg>
 Package pdftex.def Info: Imagenes/iot.jpg  used on input line 9.
 (pdftex.def)             Requested size: 205.77266pt x 115.63214pt.
  [16 <./Imagenes/iot.jpg>]
-<Imagenes/iot_contenedor.jpg, id=487, 174.6525pt x 189.70876pt>
+<Imagenes/iot_contenedor.jpg, id=501, 174.6525pt x 189.70876pt>
 File: Imagenes/iot_contenedor.jpg Graphic file (type jpg)
 <use Imagenes/iot_contenedor.jpg>
 Package pdftex.def Info: Imagenes/iot_contenedor.jpg  used on input line 25.
 (pdftex.def)             Requested size: 157.18579pt x 170.73628pt.
-) (2.1 Area de Investigacion/campoApl.tex [17 <./Imagenes/iot_contenedor.jpg>]
-<Imagenes/basurero int.jpg, id=498, 237.88875pt x 158.84344pt>
+) (2.Cap2/2.1 Area de Investigacion/2.1.7.campoApl.tex [17 <./Imagenes/iot_contenedor.jpg>]
+<Imagenes/basurero int.jpg, id=512, 237.88875pt x 158.84344pt>
 File: Imagenes/basurero int.jpg Graphic file (type jpg)
 <use Imagenes/basurero int.jpg>
 Package pdftex.def Info: Imagenes/basurero int.jpg  used on input line 14.
 (pdftex.def)             Requested size: 214.09789pt x 142.95776pt.
- [18 <./Imagenes/basurero int.jpg>]) (2.1 Area de Investigacion/futuro_tema.tex) (2.2 Proyectos SImilares/proyectos_similares.tex [19]
+ [18 <./Imagenes/basurero int.jpg>]) (2.Cap2/2.1 Area de Investigacion/2.1.8.futuro_tema.tex) (2.Cap2/2.2 Proyectos SImilares/proyectos_similares.tex [19]
 Overfull \hbox (5.65938pt too wide) in paragraph at lines 12--12
 |[]\T1/lmr/bx/n/16.19995 Contenedor de Re-ci-claje Au-tom-a-ti-zado de Bajo Costo| 
  []
 
-) [20] (2.3 Tecnologias de desarrollo/tecnologias.tex
-<Imagenes/uno3.jpg, id=524, 228.3732pt x 170.5572pt>
+) [20] (2.Cap2/2.3 Tecnologias de desarrollo/tecnologias.tex
+<Imagenes/uno3.jpg, id=538, 228.3732pt x 170.5572pt>
 File: Imagenes/uno3.jpg Graphic file (type jpg)
 <use Imagenes/uno3.jpg>
 Package pdftex.def Info: Imagenes/uno3.jpg  used on input line 10.
 (pdftex.def)             Requested size: 114.18631pt x 85.27838pt.
  [21 <./Imagenes/uno3.jpg>]
-<Imagenes/ide.png, id=533, 229.293pt x 153.081pt>
+<Imagenes/ide.png, id=547, 229.293pt x 153.081pt>
 File: Imagenes/ide.png Graphic file (type png)
 <use Imagenes/ide.png>
 Package pdftex.def Info: Imagenes/ide.png  used on input line 21.
 (pdftex.def)             Requested size: 183.43465pt x 122.46495pt.
-<Imagenes/mycro.png, id=536, 337.26pt x 219.219pt>
+<Imagenes/mycro.png, id=550, 337.26pt x 219.219pt>
 File: Imagenes/mycro.png Graphic file (type png)
 <use Imagenes/mycro.png>
 Package pdftex.def Info: Imagenes/mycro.png  used on input line 36.
 (pdftex.def)             Requested size: 202.35756pt x 131.5324pt.
  [22 <./Imagenes/ide.png> <./Imagenes/mycro.png>]
-<Imagenes/cnn.png, id=548, 350.81062pt x 209.28188pt>
+<Imagenes/cnn.png, id=562, 350.81062pt x 209.28188pt>
 File: Imagenes/cnn.png Graphic file (type png)
 <use Imagenes/cnn.png>
 Package pdftex.def Info: Imagenes/cnn.png  used on input line 47.
@@ -839,141 +839,173 @@ Package pdftex.def Info: Imagenes/cnn.png  used on input line 47.
 Underfull \vbox (badness 4792) has occurred while \output is active []
 
  [23 <./Imagenes/cnn.png>]
-<Imagenes/opencv.png, id=559, 169.38281pt x 121.20282pt>
-File: Imagenes/opencv.png Graphic file (type png)
-<use Imagenes/opencv.png>
-Package pdftex.def Info: Imagenes/opencv.png  used on input line 64.
-(pdftex.def)             Requested size: 135.50642pt x 96.96237pt.
-<Imagenes/numpy.png, id=562, 255.2445pt x 114.975pt>
-File: Imagenes/numpy.png Graphic file (type png)
-<use Imagenes/numpy.png>
-Package pdftex.def Info: Imagenes/numpy.png  used on input line 75.
-(pdftex.def)             Requested size: 204.19588pt x 91.98012pt.
+<Imagenes/tensorflow-lite.png, id=573, 1204.5pt x 677.53125pt>
+File: Imagenes/tensorflow-lite.png Graphic file (type png)
+<use Imagenes/tensorflow-lite.png>
+Package pdftex.def Info: Imagenes/tensorflow-lite.png  used on input line 72.
+(pdftex.def)             Requested size: 361.35278pt x 203.26094pt.
 
-Underfull \vbox (badness 3312) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 <./Imagenes/opencv.png> <./Imagenes/numpy.png>]
-<Imagenes/xiao.png, id=572, 261.97874pt x 321.6015pt>
+ [24] [25 <./Imagenes/tensorflow-lite.png>]
+<Imagenes/edge-impulse-flujo.png, id=589, 1606.0pt x 1055.945pt>
+File: Imagenes/edge-impulse-flujo.png Graphic file (type png)
+<use Imagenes/edge-impulse-flujo.png>
+Package pdftex.def Info: Imagenes/edge-impulse-flujo.png  used on input line 92.
+(pdftex.def)             Requested size: 321.19432pt x 211.18526pt.
+<Imagenes/edge-impulse-logo.png, id=591, 352.31625pt x 48.18pt>
+File: Imagenes/edge-impulse-logo.png Graphic file (type png)
+<use Imagenes/edge-impulse-logo.png>
+Package pdftex.def Info: Imagenes/edge-impulse-logo.png  used on input line 105.
+(pdftex.def)             Requested size: 281.85338pt x 38.54402pt.
+ [26 <./Imagenes/edge-impulse-flujo.png>]
+<Imagenes/xiao.png, id=598, 261.97874pt x 321.6015pt>
 File: Imagenes/xiao.png Graphic file (type png)
 <use Imagenes/xiao.png>
-Package pdftex.def Info: Imagenes/xiao.png  used on input line 84.
+Package pdftex.def Info: Imagenes/xiao.png  used on input line 114.
 (pdftex.def)             Requested size: 183.38387pt x 225.1195pt.
+<Imagenes/diagrama_pines.png, id=600, 963.6pt x 494.59781pt>
+File: Imagenes/diagrama_pines.png Graphic file (type png)
+<use Imagenes/diagrama_pines.png>
+Package pdftex.def Info: Imagenes/diagrama_pines.png  used on input line 120.
+(pdftex.def)             Requested size: 385.43317pt x 197.8356pt.
+<Imagenes/parte_frontal.png, id=602, 1927.2pt x 1490.56876pt>
+File: Imagenes/parte_frontal.png Graphic file (type png)
+<use Imagenes/parte_frontal.png>
+Package pdftex.def Info: Imagenes/parte_frontal.png  used on input line 126.
+(pdftex.def)             Requested size: 385.43318pt x 298.10847pt.
 
-Underfull \hbox (badness 6001) in paragraph at lines 120--120
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./Imagenes/edge-impulse-logo.png> <./Imagenes/xiao.png>]
+<Imagenes/parte_trasera.png, id=610, 1927.2pt x 1128.215pt>
+File: Imagenes/parte_trasera.png Graphic file (type png)
+<use Imagenes/parte_trasera.png>
+Package pdftex.def Info: Imagenes/parte_trasera.png  used on input line 132.
+(pdftex.def)             Requested size: 385.43318pt x 225.63899pt.
+
+Underfull \vbox (badness 6110) has occurred while \output is active []
+
+ [28 <./Imagenes/diagrama_pines.png> <./Imagenes/parte_frontal.png (PNG copy)>]
+Underfull \hbox (badness 6001) in paragraph at lines 168--168
 []|\T1/lmr/m/n/13.5 Voltaje de en-trada (Type-C): 5V,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 []|\T1/lmr/m/n/13.5 Voltaje de op-eraci髇 (Type-C):
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 \T1/lmr/m/n/13.5 5V@38.3mA, Voltaje de op-eraci髇
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25 <./Imagenes/xiao.png>]
-<Imagenes/ultra.png, id=581, 237.177pt x 127.1295pt>
+ [29 <./Imagenes/parte_trasera.png (PNG copy)>]
+<Imagenes/ultra.png, id=623, 237.177pt x 127.1295pt>
 File: Imagenes/ultra.png Graphic file (type png)
 <use Imagenes/ultra.png>
-Package pdftex.def Info: Imagenes/ultra.png  used on input line 130.
+Package pdftex.def Info: Imagenes/ultra.png  used on input line 178.
 (pdftex.def)             Requested size: 118.5882pt x 63.56459pt.
 
 Underfull \vbox (badness 1248) has occurred while \output is active []
 
- [26]
-<Imagenes/jumper.jpg, id=589, 163.9215pt x 163.9215pt>
+ [30]
+<Imagenes/jumper.jpg, id=631, 163.9215pt x 163.9215pt>
 File: Imagenes/jumper.jpg Graphic file (type jpg)
 <use Imagenes/jumper.jpg>
-Package pdftex.def Info: Imagenes/jumper.jpg  used on input line 170.
+Package pdftex.def Info: Imagenes/jumper.jpg  used on input line 218.
 (pdftex.def)             Requested size: 81.96054pt x 81.96054pt.
-<Imagenes/resistores.jpg, id=590, 215.6055pt x 136.1085pt>
+<Imagenes/resistores.jpg, id=632, 215.6055pt x 136.1085pt>
 File: Imagenes/resistores.jpg Graphic file (type jpg)
 <use Imagenes/resistores.jpg>
-Package pdftex.def Info: Imagenes/resistores.jpg  used on input line 176.
+Package pdftex.def Info: Imagenes/resistores.jpg  used on input line 224.
 (pdftex.def)             Requested size: 107.80247pt x 68.05408pt.
-<Imagenes/bread.jpg, id=591, 213.1965pt x 145.854pt>
+ [31 <./Imagenes/ultra.png> <./Imagenes/jumper.jpg>]
+<Imagenes/bread.jpg, id=640, 213.1965pt x 145.854pt>
 File: Imagenes/bread.jpg Graphic file (type jpg)
 <use Imagenes/bread.jpg>
-Package pdftex.def Info: Imagenes/bread.jpg  used on input line 182.
+Package pdftex.def Info: Imagenes/bread.jpg  used on input line 230.
 (pdftex.def)             Requested size: 106.59798pt x 72.92682pt.
- [27 <./Imagenes/ultra.png>]
-<Imagenes/micro.jpg, id=599, 216.81pt x 173.448pt>
-File: Imagenes/micro.jpg Graphic file (type jpg)
-<use Imagenes/micro.jpg>
-Package pdftex.def Info: Imagenes/micro.jpg  used on input line 195.
-(pdftex.def)             Requested size: 108.40472pt x 86.72379pt.
+<Imagenes/servo_motor.png, id=642, 325.215pt x 260.47313pt>
+File: Imagenes/servo_motor.png Graphic file (type png)
+<use Imagenes/servo_motor.png>
+Package pdftex.def Info: Imagenes/servo_motor.png  used on input line 241.
+(pdftex.def)             Requested size: 162.6071pt x 130.23624pt.
 
-Underfull \vbox (badness 3098) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28 <./Imagenes/jumper.jpg> <./Imagenes/resistores.jpg> <./Imagenes/bread.jpg>]) [29 <./Imagenes/micro.jpg>]
+ [32 <./Imagenes/resistores.jpg> <./Imagenes/bread.jpg>]
+<Imagenes/dimensiones_servo.png, id=649, 326.72063pt x 413.29407pt>
+File: Imagenes/dimensiones_servo.png Graphic file (type png)
+<use Imagenes/dimensiones_servo.png>
+Package pdftex.def Info: Imagenes/dimensiones_servo.png  used on input line 247.
+(pdftex.def)             Requested size: 163.35991pt x 206.64651pt.
+<Imagenes/cables_servo.png, id=651, 562.35094pt x 137.01187pt>
+File: Imagenes/cables_servo.png Graphic file (type png)
+<use Imagenes/cables_servo.png>
+Package pdftex.def Info: Imagenes/cables_servo.png  used on input line 253.
+(pdftex.def)             Requested size: 281.17477pt x 68.50577pt.
+<Imagenes/consumo_servo.png, id=653, 582.67688pt x 246.9225pt>
+File: Imagenes/consumo_servo.png Graphic file (type png)
+<use Imagenes/consumo_servo.png>
+Package pdftex.def Info: Imagenes/consumo_servo.png  used on input line 259.
+(pdftex.def)             Requested size: 291.33772pt x 123.46094pt.
+ [33 <./Imagenes/servo_motor.png> <./Imagenes/dimensiones_servo.png> <./Imagenes/cables_servo.png>]) [34{C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc} <./Imagenes/consumo_servo.png>]
 Chapter 3.
-(3.1 Metodo-Experimentacion/alcance.tex) (3.1 Metodo-Experimentacion/3.1.1 Observaci贸n.tex [30
+(3.Cap3/3.1 Metodo-Descripcion/alcance.tex) (3.Cap3/3.1 Metodo-Descripcion/3.1.1 Observaci贸n.tex [35
 
-]) (3.1 Metodo-Experimentacion/3.1.2 Planteamiento de hipotesis.tex) (3.1 Metodo-Experimentacion/3.1.3 Experimentaci贸n.tex [31] [32]) (3.1 Metodo-Experimentacion/3.1.4 Analisis de Datos.tex [33]) (3.1 Metodo-Experimentacion/3.1.5 Conclusi贸n.tex) (3.2 Escenario de Aplicacion/3.2.1 Contexto Social.tex) [34] (3.3 Cronograma de actividades/3.3.1 Fases del proyecto.tex
+]) (3.Cap3/3.1 Metodo-Descripcion/3.1.2 Planteamiento de solucion.tex) (3.Cap3/3.1 Metodo-Descripcion/3.1.3 Desarrollo.tex [36] [37]) (3.Cap3/3.1 Metodo-Descripcion/3.1.4 Analisis de Datos.tex [38]) (3.Cap3/3.1 Metodo-Descripcion/3.1.5 Conclusi贸n.tex) (3.Cap3/3.2 Escenario de Aplicacion/3.2.1 Contexto Social.tex) (3.Cap3/3.3 Cronograma de actividades/3.3.1 Fases del proyecto.tex
 Overfull \hbox (38.89542pt too wide) in paragraph at lines 3--22
  [][] 
  []
 
-[35] [36]) (3.4 Presupuesto real/3.4.1 Desglose Detallado.tex
-Overfull \hbox (6.10367pt too wide) in paragraph at lines 3--46
+[39] [40] [41]) (3.Cap3/3.4 Presupuesto real/3.4.1 Desglose Detallado.tex
+Overfull \hbox (6.10367pt too wide) in paragraph at lines 3--44
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37] [38]) (3.5 Dise帽o Conceptual/dise帽o.tex
+ [42] [43]) (3.Cap3/3.5 Dise帽o Conceptual/dise帽o.tex
+<Imagenes/dc1.png, id=731, 661.2705pt x 375.20175pt>
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 661.26888pt x 375.20082pt.
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 661.26888pt x 375.20082pt.
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 661.26888pt x 375.20082pt.
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 614.54132pt x 348.68782pt.
+ [44]
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 614.54132pt x 348.68782pt.
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 614.54132pt x 348.68782pt.
+File: Imagenes/dc1.png Graphic file (type png)
+<use Imagenes/dc1.png>
+Package pdftex.def Info: Imagenes/dc1.png  used on input line 1.
+(pdftex.def)             Requested size: 614.54132pt x 348.68782pt.
+ [45
 
-pdfTeX warning: pdflatex (file ./Imagenes/dc1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Imagenes/dc1.pdf, id=673, 661.32784pt x 375.23427pt>
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf>
-Package pdftex.def Info: Imagenes/dc1.pdf  used on input line 1.
-(pdftex.def)             Requested size: 661.32622pt x 375.23334pt.
-
-
-pdfTeX warning: pdflatex (file ./Imagenes/dc1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf>
-Package pdftex.def Info: Imagenes/dc1.pdf  used on input line 1.
-(pdftex.def)             Requested size: 661.32622pt x 375.23334pt.
-
-
-pdfTeX warning: pdflatex (file ./Imagenes/dc1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./Imagenes/dc1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Imagenes/dc1.pdf, id=676, page=1, 661.32784pt x 375.23427pt>
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf, page 1>
-Package pdftex.def Info: Imagenes/dc1.pdf , page1 used on input line 1.
-(pdftex.def)             Requested size: 661.32622pt x 375.23334pt.
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf, page 1>
-Package pdftex.def Info: Imagenes/dc1.pdf , page1 used on input line 1.
-(pdftex.def)             Requested size: 614.59462pt x 348.71805pt.
-[39]
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf, page 1>
-Package pdftex.def Info: Imagenes/dc1.pdf , page1 used on input line 1.
-(pdftex.def)             Requested size: 614.59462pt x 348.71805pt.
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf, page 1>
-Package pdftex.def Info: Imagenes/dc1.pdf , page1 used on input line 1.
-(pdftex.def)             Requested size: 614.59462pt x 348.71805pt.
-File: Imagenes/dc1.pdf Graphic file (type pdf)
-<use Imagenes/dc1.pdf, page 1>
-Package pdftex.def Info: Imagenes/dc1.pdf , page1 used on input line 1.
-(pdftex.def)             Requested size: 614.59462pt x 348.71805pt.
- [40
-
- <./Imagenes/dc1.pdf>]
-<Imagenes/ESP32-XIAO-CNN.jpg, id=688, 1027.84pt x 564.1075pt>
+ <./Imagenes/dc1.png>]
+<Imagenes/ESP32-XIAO-CNN.jpg, id=743, 1027.84pt x 564.1075pt>
 File: Imagenes/ESP32-XIAO-CNN.jpg Graphic file (type jpg)
 <use Imagenes/ESP32-XIAO-CNN.jpg>
 Package pdftex.def Info: Imagenes/ESP32-XIAO-CNN.jpg  used on input line 30.
@@ -984,9 +1016,9 @@ Overfull \hbox (44.16373pt too wide) in paragraph at lines 30--31
  []
 
 
-Underfull \vbox (badness 5231) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41] [42 <./Imagenes/ESP32-XIAO-CNN.jpg>] [43] [44] [45]) (Referencias.tex
+ [46] [47 <./Imagenes/ESP32-XIAO-CNN.jpg>] [48] [49] [50]) (Referencias.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5.
  (C:\Users\arlan\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1035,7 +1067,7 @@ Underfull \hbox (badness 3009) in paragraph at lines 29--30
 \T1/lmr/m/n/13.5 Ac-ce-dido el 13 de oc-tubre de 2024.[]$\T1/lmtt/m/n/13.5 https : / / www . ingmecafenix . com /
  []
 
-[46
+[51
 
 ]
 Underfull \hbox (badness 3199) in paragraph at lines 44--45
@@ -1097,7 +1129,7 @@ Overfull \hbox (75.37599pt too wide) in paragraph at lines 62--63
 \T1/lmtt/m/n/13.5 instalan-[]el-[]primer-[]basurero-[]inteligente-[]de-[]chile-[]en-[]el-[]centro-[]de-[]santiago /
  []
 
-[47]
+[52]
 Underfull \hbox (badness 10000) in paragraph at lines 83--84
 []\T1/lmr/m/it/13.5 ESP32 MPY-Jama un nuevo en-torno de de-sar-rollo para
  []
@@ -1137,231 +1169,286 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--90
 \T1/lmr/m/n/13.5 en: []$\T1/lmtt/m/n/13.5 https : / / es . wikipedia . org / w / index . php ? title = Visi % C3 % B3n _
  []
 
-[48]
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 []\T1/lmr/m/it/13.5 DataSheet de XIAO ESP32 CAM\T1/lmr/m/n/13.5 Disponible en: []$\T1/lmtt/m/n/13.5 https : / / www .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 \T1/lmtt/m/n/13.5 seeedstudio . com / XIAO-[]ESP32S3-[]Sense-[]p-[]5639 . html ? queryID =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 \T1/lmtt/m/n/13.5 be6f53c7ae317f6cbbc28f0668fb03df & objectID = 5639 & indexName =
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 101--102
+Underfull \hbox (badness 1701) in paragraph at lines 107--108
 \T1/lmr/m/it/13.5 Pi, Mi-cro-con-troller and Other In-for-ma-tion Tech-nol-ogy. \T1/lmr/m/n/13.5 Ac-ce-dido el 9
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 101--102
+Underfull \hbox (badness 1024) in paragraph at lines 107--108
 \T1/lmr/m/n/13.5 de oc-tubre de 2024[]$\T1/lmtt/m/n/13.5 https : / / www . nn-[]digital . com / en / blog / 2019 / 08 / 07 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-[]\T1/lmr/m/it/13.5 SIPYTOPF Pa-quete de Ser-vo-mo-tores\T1/lmr/m/n/13.5 . Ac-ce-dido el 10
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-\T1/lmr/m/n/13.5 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com / -[] / es /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-\T1/lmtt/m/n/13.5 SIPYTOPF-[]Paquete-[]servomotores-[]Helic % C3 % B3ptero-[]Caminar / dp /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-\T1/lmtt/m/n/13.5 B09185SC1W / ref = sr _ 1 _ 32 ? _ _ mk _ es _ US = %C3 % 85M % C3 % 85 % C5 % BD % C3 % 95 % C3 %
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 110--111
-[]\T1/lmr/m/it/13.5 BOJACK Conec-tores y Ca-bles para Pro-to-board\T1/lmr/m/n/13.5 . Ac-ce-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-\T1/lmr/m/n/13.5 dido el 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
-\T1/lmtt/m/n/13.5 BOJACK-[]Solderless-[]Flexible-[]Breadboard-[]Connecting / dp / B08YRGVYPV /
+\T1/lmtt/m/n/13.5 motores-[]y-[]servos / 608-[]servo-[]motor-[]mg995 . html ? search _ query = mg995 &
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--114
-[]\T1/lmr/m/it/13.5 MCIGICM Pro-to-board sin Sol-dadura\T1/lmr/m/n/13.5 . Ac-ce-dido el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmr/m/n/13.5 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 MCIGICM-[]soldadura-[]bloques-[]conexi % C3 % B3n-[]distribuci % C3 % B3n /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 dp / B08115P2T4 / ref = sr _ 1 _ 2 _ sspa ? _ _ mk _ es _ US = %C3 % 85M % C3 % 85 %
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 C5 % BD % C3 % 95 % C3 % 91 & crid = KKEKRCG6EY1X & dib = eyJ2IjoiMSJ9 . n _
- []
-
-
-Overfull \hbox (153.72267pt too wide) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 ouM0H1-[]4UlTfT6NnyzOP27agXFvwpdpQDA9kKxVzYLIAPmmt34gPN84r3OHZayHjnz7fQt8U3TmlUkgyUJpWt _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 fMGmwHs2DcVvZUrXjoNGETKxSpBpJic-[]OuEVggA _
- []
-
-
-Overfull \hbox (49.02751pt too wide) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 lFd7uPpaGgGgm20KoLvvq30nabWY1ExK5I87qrsEqVxgn4BwJps4tvDKiF9VqoFEjmBz8p _
- []
-
-
-Overfull \hbox (118.9962pt too wide) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 EcKd _ mvLJ7fmupow2SDy6tBmHZKkMvwW4xAo . SCKCgXJxXbckWRCMhoJUNEoTPZyXpXKILz-[]lFKFfMW0 &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 dib _ tag = se & keywords = 2 + protoboards & qid = 1728768709 &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
-\T1/lmtt/m/n/13.5 sprefix = 2 + protoboard % 2Caps % 2C139 & sr = 8-[]2-[]spons & sp _ csd =
- []
-
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\T1/lmr/m/it/13.5 Buzzer Piezoel閏-trico para Proyec-tos Elec-tr髇i-cos\T1/lmr/m/n/13.5 . Ac-ce-dido el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\T1/lmr/m/n/13.5 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com / piezoel % C3 %
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\T1/lmtt/m/n/13.5 A9ctricos-[]electr % C3 % B3nico-[]computadoras-[]componentes-[]electr %
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\T1/lmtt/m/n/13.5 C3 % B3nicos / dp / B07VK1GJ9X / ref = sxin _ 16 _ pa _ sp _ search _ thematic _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\T1/lmtt/m/n/13.5 sspa ? _ _ mk _ es _ US = %C3 % 85M % C3 % 85 % C5 % BD % C3 % 95 % C3 % 91 & cv _ ct _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\T1/lmtt/m/n/13.5 cx = buzzer & sbo = RZvfv % 2F % 2FHxDF % 2BO5021pAnSA % 3D % 3D & sr =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-\T1/lmtt/m/n/13.5 1-[]5-[]6024b2a3-[]78e4-[]4fed-[]8fed-[]e1613be3bcce-[]spons & sp _ csd =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
 []\T1/lmr/m/it/13.5 Placa Ele-goo AT-mega328P Ar-duino UNO\T1/lmr/m/n/13.5 . Ac-ce-dido
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/lmr/m/n/13.5 el 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/lmtt/m/n/13.5 Elegoo-[]Placa-[]ATmega328P-[]ATMEGA16U2-[]Arduino / dp / B01EWOE0UU /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/lmtt/m/n/13.5 ref = sxin _ 16 _ pa _ sp _ search _ thematic _ sspa ? _ _ mk _ es _ US = %C3 %
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/lmtt/m/n/13.5 85M % C3 % 85 % C5 % BD % C3 % 95 % C3 % 91 & cv _ ct _ cx = arduino + uno & s =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/lmtt/m/n/13.5 electronics & sbo = RZvfv % 2F % 2FHxDF % 2BO5021pAnSA % 3D % 3D & sr =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 \T1/lmtt/m/n/13.5 1-[]1-[]6024b2a3-[]78e4-[]4fed-[]8fed-[]e1613be3bcce-[]spons & sp _ csd =
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\T1/lmr/m/it/13.5 Placa Seeed Stu-dio XIAO ESP32S3 \T1/lmr/m/n/13.5 Ac-ce-dido el 28
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmr/m/n/13.5 de noviem-bre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 ESP32S3-[]2-[]4GHz-[]Dual-[]core-[]Supported-[]Efficiency-[]Interface /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 dp / B0BYSB66S5 / ref = sr _ 1 _ 5 ? crid = 2U6G5BPLVHW04 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 dib = eyJ2IjoiMSJ9 . 9elFwT5zdJh-[]CxuB85q9s7uq _ j0Y _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 qLtmyIJM-[]L10MYmuJ3EkVZ8eelE7F8EiMha88rznrzs1HPaFEcW _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 h3cF7XCXNEWopjf7k8Onzadz4wYLM5GvGeyGDC6UQgDDU _
+ []
+
+
+Overfull \hbox (251.96309pt too wide) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 McWHt-[]iHIAV78xaZcuNppg-[]Ui _ d6rBrxa0l2fWfeQTjw6C67o3sLHV4N8zNeYHaWvduFkAfO920SF-[]RlBKGhS3B80e3gEPBFgMR _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 6bzx7Yi8 . Rg1upYpcKl1HkF1ONtQDAVPh5uP0gOOqpDmqXGyEZks & dib _ tag =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+\T1/lmtt/m/n/13.5 se & keywords = esp32s3 & qid = 1732831623 & sprefix = esp32s3 % 2Caps % 2C254 &
+ []
+
+[54]
+Underfull \hbox (badness 2027) in paragraph at lines 119--120
+[]\T1/lmr/m/it/13.5 HOSYOND Pa-quete de Ser-vo-mo-tores\T1/lmr/m/n/13.5 . Ac-ce-dido el 10 de oc-tubre de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\T1/lmr/m/n/13.5 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com / dp / B0CNVV92ZF ? ref = cm _ sw _ r _ cso _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\T1/lmtt/m/n/13.5 wa _ apin _ dp _ FF3FBJ7Y9PPGP5KWA6G5 & ref _ =cm _ sw _ r _ cso _ wa _ apin _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\T1/lmtt/m/n/13.5 dp _ FF3FBJ7Y9PPGP5KWA6G5 & social _ share = cm _ sw _ r _ cso _ wa _ apin _ dp _
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 122--123
+[]\T1/lmr/m/it/13.5 BOJACK Conec-tores y Ca-bles para Pro-to-board\T1/lmr/m/n/13.5 . Ac-ce-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\T1/lmr/m/n/13.5 dido el 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\T1/lmtt/m/n/13.5 BOJACK-[]Solderless-[]Flexible-[]Breadboard-[]Connecting / dp / B08YRGVYPV /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]\T1/lmr/m/it/13.5 MCIGICM Pro-to-board sin Sol-dadura\T1/lmr/m/n/13.5 . Ac-ce-dido el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmr/m/n/13.5 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 MCIGICM-[]soldadura-[]bloques-[]conexi % C3 % B3n-[]distribuci % C3 % B3n /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 dp / B08115P2T4 / ref = sr _ 1 _ 2 _ sspa ? _ _ mk _ es _ US = %C3 % 85M % C3 % 85 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 C5 % BD % C3 % 95 % C3 % 91 & crid = KKEKRCG6EY1X & dib = eyJ2IjoiMSJ9 . n _
+ []
+
+
+Overfull \hbox (153.72267pt too wide) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 ouM0H1-[]4UlTfT6NnyzOP27agXFvwpdpQDA9kKxVzYLIAPmmt34gPN84r3OHZayHjnz7fQt8U3TmlUkgyUJpWt _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 fMGmwHs2DcVvZUrXjoNGETKxSpBpJic-[]OuEVggA _
+ []
+
+
+Overfull \hbox (49.02751pt too wide) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 lFd7uPpaGgGgm20KoLvvq30nabWY1ExK5I87qrsEqVxgn4BwJps4tvDKiF9VqoFEjmBz8p _
+ []
+
+
+Overfull \hbox (118.9962pt too wide) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 EcKd _ mvLJ7fmupow2SDy6tBmHZKkMvwW4xAo . SCKCgXJxXbckWRCMhoJUNEoTPZyXpXKILz-[]lFKFfMW0 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 dib _ tag = se & keywords = 2 + protoboards & qid = 1728768709 &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\T1/lmtt/m/n/13.5 sprefix = 2 + protoboard % 2Caps % 2C139 & sr = 8-[]2-[]spons & sp _ csd =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]\T1/lmr/m/it/13.5 Buzzer Piezoel閏-trico para Proyec-tos Elec-tr髇i-cos\T1/lmr/m/n/13.5 . Ac-ce-dido el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/lmr/m/n/13.5 10 de oc-tubre de 2024. []$\T1/lmtt/m/n/13.5 https : / / www . amazon . com / piezoel % C3 %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/lmtt/m/n/13.5 A9ctricos-[]electr % C3 % B3nico-[]computadoras-[]componentes-[]electr %
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/lmtt/m/n/13.5 C3 % B3nicos / dp / B07VK1GJ9X / ref = sxin _ 16 _ pa _ sp _ search _ thematic _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/lmtt/m/n/13.5 sspa ? _ _ mk _ es _ US = %C3 % 85M % C3 % 85 % C5 % BD % C3 % 95 % C3 % 91 & cv _ ct _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/lmtt/m/n/13.5 cx = buzzer & sbo = RZvfv % 2F % 2FHxDF % 2BO5021pAnSA % 3D % 3D & sr =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/lmtt/m/n/13.5 1-[]5-[]6024b2a3-[]78e4-[]4fed-[]8fed-[]e1613be3bcce-[]spons & sp _ csd =
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 []\T1/lmr/m/it/13.5 MJRoBot (Marcelo Rovai). ^^PTinyML Made Easy: Im-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 \T1/lmr/m/it/13.5 age Clas-si-fi-ca-tion w/ XIAO ESP32S3 Sense^^Q.\T1/lmr/m/n/13.5 Accedido el
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 \T1/lmr/m/n/13.5 10 de oc-tubre de 2024.[]$\T1/lmtt/m/n/13.5 https : / / www . hackster . io / mjrobot /
  []
 
 
-Overfull \hbox (11.85417pt too wide) in paragraph at lines 122--123
+Overfull \hbox (11.85417pt too wide) in paragraph at lines 131--132
 \T1/lmtt/m/n/13.5 tinyml-[]made-[]easy-[]image-[]classification-[]w-[]xiao-[]esp32s3-[]sense-[]cb42ae$[] 
  []
 
-) [50] (informe.aux)
+) [56] (informe.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `informe.out' has not changed.
-(rerunfilecheck)             Checksum: 3550C28406538983CD331EA69866B9FC;11648.
+(rerunfilecheck)             Checksum: 5A03F3719F81C23B9CA43D52188F4EC4;11693.
  ) 
 Here is how much of TeX's memory you used:
- 23895 strings out of 474329
- 452324 string characters out of 5740005
- 807077 words of memory out of 5000000
- 45623 multiletter control sequences out of 15000+600000
+ 23959 strings out of 474329
+ 455104 string characters out of 5740005
+ 809204 words of memory out of 5000000
+ 45672 multiletter control sequences out of 15000+600000
  602421 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,17n,93p,1584b,628s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on informe.pdf (50 pages, 2935856 bytes).
+ 83i,17n,93p,1591b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/arlan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on informe.pdf (56 pages, 4377009 bytes).
 PDF statistics:
- 897 PDF objects out of 1000 (max. 8388607)
- 195 named destinations out of 1000 (max. 500000)
- 636 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 981 PDF objects out of 1000 (max. 8388607)
+ 209 named destinations out of 1000 (max. 500000)
+ 666 words of extra memory for PDF output out of 10000 (max. 10000000)
 

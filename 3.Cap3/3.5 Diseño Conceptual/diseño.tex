@@ -1,24 +1,24 @@
-\includepdf{Imagenes/dc1.pdf}
+\includepdf{Imagenes/dc1.png}
 \subsection{Descripción del diseño conceptual planteado}
 \textbf{1. Arduino UNO R3}
 
 El Arduino Uno es el corazón del sistema, encargado de recibir señales de los distintos componentes (cámara, sensores, etc.) y tomar decisiones en función de los datos recibidos.
 
-Interacción: El Arduino coordina todo el sistema. Recibe las imágenes desde la cámara (ESP32 CAM), los datos de clasificación del modelo de machine learning (TinyML), y las lecturas del sensor ultrasónico (HC-SR04). Luego, controla la apertura de las compuertas y activa el sistema de notificación según sea necesario.
+Interacción: El Arduino coordina todo el sistema. Recibe las etiquetas de las imágenes clasifiadas desde la cámara (ESP32 CAM),  y las lecturas del sensor ultrasónico (HC-SR04). Luego, controla la apertura de las compuertas y activa el sistema de notificación según sea necesario.
 
 Acción: Procesa todas las señales y ejecuta comandos para manejar los actuadores y sensores.
 
 \textbf{2. Incorporación de ESP32 CAM (Cámara)} 
 
-La ESP32 CAM está instalada dentro del basurero. Su principal tarea es capturar imágenes de los residuos que se introducen. 
+La ESP32 CAM está instalada en la parte frontal del basurero. Su principal tarea es clasificar las imágenes de los residuos que se introducen. 
 
-	\textbf{Interacción:} Cada vez que se coloca un objeto en el basurero, se activa la cámara para tomar una foto. Esta imagen es esencial para el siguiente paso, que es la clasificación mediante machine learning. 
+	\textbf{Interacción:} Cada vez que que muestre un objeto a en la parte frontal del basurero, se activa la cámara para detectar el objeto. Esta detección es esencial para el siguiente paso, que es la clasificación mediante machine learning. 
 
 	\textbf{3. Procesamiento con Machine Learning (TinyML)} 
 
-Una vez que la cámara toma la imagen del residuo, esta se envía al sistema de machine learning, específicamente utilizando TensorFlow Lite, una versión ligera diseñada para dispositivos como la ESP32. 
+Una vez que la cámara detecta la imagen del residuo, esta se envía al sistema de machine learning, específicamente utilizando TensorFlow Lite, una versión ligera diseñada para dispositivos como la ESP32. 
 
-    \textbf{Interacción:} El sistema de machine learning procesa la imagen en tiempo real y clasifica el material como plástico, papel, vidrio, etc. Esto se basa en el entrenamiento previo de un modelo que ha aprendido a identificar diferentes tipos de residuos. 
+    \textbf{Interacción:} El sistema de machine learning procesa la imagen en tiempo real y clasifica el material en cartón o plástico. Esto se basa en el entrenamiento previo de un modelo que ha aprendido a identificar esos dos tipos de residuos. 
 
 	\textbf{Decisión:} Dependiendo de la clasificación del material, el sistema decide en qué compartimiento debe depositarse el residuo. 
 
@@ -50,7 +50,7 @@ Cuando se le da una imagen a la cámara, su principal tarea es capturar la image
 
 Leer Imagen: Se obtiene la imagen capturada en bruto.
 
-Recortar y Convertir: Esta imagen es procesada, recortada y convertida a escala de grises para reducir la cantidad de datos y permitir una clasificación más eficiente. Aquí se menciona que la imagen se ajusta a una resolución de 96x96 píxeles.
+Recortar y Convertir: Esta imagen es procesada y recortada para reducir la cantidad de datos y permitir una clasificación más eficiente. Aquí se destaca que la imagen se ajusta a una resolución de 96x96 píxeles.
 
 \textbf{TensorFlow Lite Micro}
 
@@ -88,7 +88,7 @@ Este componente puede también actuar como una herramienta de depuración, ayuda
 
 Una vez que el machine learning ha clasificado el residuo, el sistema de control que viene siendo Arduino recibe la instrucción de abrir la compuerta correspondiente. 
 
-    \textbf{Interacción:} El Arduino Uno controla motores o actuadores que abren las compuertas del basurero según el tipo de material identificado. Por ejemplo, si se detecta plástico, se abre la compuerta destinada para plásticos. 
+    \textbf{Interacción:} El Arduino Uno controla motores o actuadores que abren las compuertas del basurero según el tipo de material identificado. El material puede ser cartón o plástico. 
 
 	\textbf{Acción:} El residuo es depositado en el compartimiento adecuado para su recolección posterior. 
 

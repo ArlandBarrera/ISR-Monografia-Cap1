@@ -355,9 +355,9 @@ INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT .\1.Cap1\1.6.Delimitaciones.tex
 INPUT .\1.Cap1\1.6.Delimitaciones.tex
 INPUT 1.Cap1\1.6.Delimitaciones.tex
-INPUT .\2.1 Area de Investigacion\Inteligencia artificial en el reciclaje.tex
-INPUT .\2.1 Area de Investigacion\Inteligencia artificial en el reciclaje.tex
-INPUT 2.1 Area de Investigacion\Inteligencia artificial en el reciclaje.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.1.Inteligencia artificial en el reciclaje.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.1.Inteligencia artificial en el reciclaje.tex
+INPUT 2.Cap2\2.1 Area de Investigacion\2.1.1.Inteligencia artificial en el reciclaje.tex
 INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
 INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
 INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
@@ -365,9 +365,9 @@ INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
 INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
 INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
 INPUT .\Imagenes\CAP2_elementos_microcontrolador.png
-INPUT .\2.1 Area de Investigacion\ard_esp32.tex
-INPUT .\2.1 Area de Investigacion\ard_esp32.tex
-INPUT 2.1 Area de Investigacion\ard_esp32.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.4.ard_esp32.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.4.ard_esp32.tex
+INPUT 2.Cap2\2.1 Area de Investigacion\2.1.4.ard_esp32.tex
 INPUT .\Imagenes\ardr3.jpg
 INPUT .\Imagenes\ardr3.jpg
 INPUT .\Imagenes\ardr3.jpg
@@ -389,9 +389,9 @@ INPUT .\Imagenes\xiao esp32cam.png
 INPUT .\Imagenes\xiao esp32cam.png
 INPUT .\Imagenes\xiao esp32cam.png
 INPUT .\Imagenes\xiao esp32cam.png
-INPUT .\2.1 Area de Investigacion\sistemas_clas_aut.tex
-INPUT .\2.1 Area de Investigacion\sistemas_clas_aut.tex
-INPUT 2.1 Area de Investigacion\sistemas_clas_aut.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.5.sistemas_clas_aut.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.5.sistemas_clas_aut.tex
+INPUT 2.Cap2\2.1 Area de Investigacion\2.1.5.sistemas_clas_aut.tex
 INPUT .\Imagenes\maxim.png
 INPUT .\Imagenes\maxim.png
 INPUT .\Imagenes\maxim.png
@@ -399,9 +399,9 @@ INPUT .\Imagenes\maxim.png
 INPUT .\Imagenes\maxim.png
 INPUT .\Imagenes\maxim.png
 INPUT .\Imagenes\maxim.png
-INPUT .\2.1 Area de Investigacion\iot.tex
-INPUT .\2.1 Area de Investigacion\iot.tex
-INPUT 2.1 Area de Investigacion\iot.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.6.iot.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.6.iot.tex
+INPUT 2.Cap2\2.1 Area de Investigacion\2.1.6.iot.tex
 INPUT .\Imagenes\iot.jpg
 INPUT .\Imagenes\iot.jpg
 INPUT .\Imagenes\iot.jpg
@@ -417,9 +417,9 @@ INPUT .\Imagenes\iot_contenedor.jpg
 INPUT .\Imagenes\iot_contenedor.jpg
 INPUT .\Imagenes\iot_contenedor.jpg
 INPUT .\Imagenes\iot_contenedor.jpg
-INPUT .\2.1 Area de Investigacion\campoApl.tex
-INPUT .\2.1 Area de Investigacion\campoApl.tex
-INPUT 2.1 Area de Investigacion\campoApl.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.7.campoApl.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.7.campoApl.tex
+INPUT 2.Cap2\2.1 Area de Investigacion\2.1.7.campoApl.tex
 INPUT .\Imagenes\basurero int.jpg
 INPUT .\Imagenes\basurero int.jpg
 INPUT .\Imagenes\basurero int.jpg
@@ -427,15 +427,15 @@ INPUT .\Imagenes\basurero int.jpg
 INPUT .\Imagenes\basurero int.jpg
 INPUT .\Imagenes\basurero int.jpg
 INPUT .\Imagenes\basurero int.jpg
-INPUT .\2.1 Area de Investigacion\futuro_tema.tex
-INPUT .\2.1 Area de Investigacion\futuro_tema.tex
-INPUT 2.1 Area de Investigacion\futuro_tema.tex
-INPUT .\2.2 Proyectos SImilares\proyectos_similares.tex
-INPUT .\2.2 Proyectos SImilares\proyectos_similares.tex
-INPUT 2.2 Proyectos SImilares\proyectos_similares.tex
-INPUT .\2.3 Tecnologias de desarrollo\tecnologias.tex
-INPUT .\2.3 Tecnologias de desarrollo\tecnologias.tex
-INPUT 2.3 Tecnologias de desarrollo\tecnologias.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.8.futuro_tema.tex
+INPUT .\2.Cap2\2.1 Area de Investigacion\2.1.8.futuro_tema.tex
+INPUT 2.Cap2\2.1 Area de Investigacion\2.1.8.futuro_tema.tex
+INPUT .\2.Cap2\2.2 Proyectos SImilares\proyectos_similares.tex
+INPUT .\2.Cap2\2.2 Proyectos SImilares\proyectos_similares.tex
+INPUT 2.Cap2\2.2 Proyectos SImilares\proyectos_similares.tex
+INPUT .\2.Cap2\2.3 Tecnologias de desarrollo\tecnologias.tex
+INPUT .\2.Cap2\2.3 Tecnologias de desarrollo\tecnologias.tex
+INPUT 2.Cap2\2.3 Tecnologias de desarrollo\tecnologias.tex
 INPUT .\Imagenes\uno3.jpg
 INPUT .\Imagenes\uno3.jpg
 INPUT .\Imagenes\uno3.jpg
@@ -464,20 +464,27 @@ INPUT .\Imagenes\cnn.png
 INPUT .\Imagenes\cnn.png
 INPUT .\Imagenes\cnn.png
 INPUT .\Imagenes\cnn.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\opencv.png
-INPUT .\Imagenes\numpy.png
-INPUT .\Imagenes\numpy.png
-INPUT .\Imagenes\numpy.png
-INPUT .\Imagenes\numpy.png
-INPUT .\Imagenes\numpy.png
-INPUT .\Imagenes\numpy.png
-INPUT .\Imagenes\numpy.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\tensorflow-lite.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-flujo.png
+INPUT .\Imagenes\edge-impulse-logo.png
+INPUT .\Imagenes\edge-impulse-logo.png
+INPUT .\Imagenes\edge-impulse-logo.png
+INPUT .\Imagenes\edge-impulse-logo.png
+INPUT .\Imagenes\edge-impulse-logo.png
+INPUT .\Imagenes\edge-impulse-logo.png
+INPUT .\Imagenes\edge-impulse-logo.png
 INPUT .\Imagenes\xiao.png
 INPUT .\Imagenes\xiao.png
 INPUT .\Imagenes\xiao.png
@@ -485,6 +492,27 @@ INPUT .\Imagenes\xiao.png
 INPUT .\Imagenes\xiao.png
 INPUT .\Imagenes\xiao.png
 INPUT .\Imagenes\xiao.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\diagrama_pines.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_frontal.png
+INPUT .\Imagenes\parte_trasera.png
+INPUT .\Imagenes\parte_trasera.png
+INPUT .\Imagenes\parte_trasera.png
+INPUT .\Imagenes\parte_trasera.png
+INPUT .\Imagenes\parte_trasera.png
+INPUT .\Imagenes\parte_trasera.png
+INPUT .\Imagenes\parte_trasera.png
 INPUT .\Imagenes\ultra.png
 INPUT .\Imagenes\ultra.png
 INPUT .\Imagenes\ultra.png
@@ -513,60 +541,83 @@ INPUT .\Imagenes\bread.jpg
 INPUT .\Imagenes\bread.jpg
 INPUT .\Imagenes\bread.jpg
 INPUT .\Imagenes\bread.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\Imagenes\micro.jpg
-INPUT .\3.1 Metodo-Experimentacion\alcance.tex
-INPUT .\3.1 Metodo-Experimentacion\alcance.tex
-INPUT 3.1 Metodo-Experimentacion\alcance.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.1 Observación.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.1 Observación.tex
-INPUT 3.1 Metodo-Experimentacion\3.1.1 Observación.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.2 Planteamiento de hipotesis.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.2 Planteamiento de hipotesis.tex
-INPUT 3.1 Metodo-Experimentacion\3.1.2 Planteamiento de hipotesis.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.3 Experimentación.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.3 Experimentación.tex
-INPUT 3.1 Metodo-Experimentacion\3.1.3 Experimentación.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.4 Analisis de Datos.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.4 Analisis de Datos.tex
-INPUT 3.1 Metodo-Experimentacion\3.1.4 Analisis de Datos.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.5 Conclusión.tex
-INPUT .\3.1 Metodo-Experimentacion\3.1.5 Conclusión.tex
-INPUT 3.1 Metodo-Experimentacion\3.1.5 Conclusión.tex
-INPUT .\3.2 Escenario de Aplicacion\3.2.1 Contexto Social.tex
-INPUT .\3.2 Escenario de Aplicacion\3.2.1 Contexto Social.tex
-INPUT 3.2 Escenario de Aplicacion\3.2.1 Contexto Social.tex
-INPUT .\3.3 Cronograma de actividades\3.3.1 Fases del proyecto.tex
-INPUT .\3.3 Cronograma de actividades\3.3.1 Fases del proyecto.tex
-INPUT 3.3 Cronograma de actividades\3.3.1 Fases del proyecto.tex
-INPUT .\3.4 Presupuesto real\3.4.1 Desglose Detallado.tex
-INPUT .\3.4 Presupuesto real\3.4.1 Desglose Detallado.tex
-INPUT 3.4 Presupuesto real\3.4.1 Desglose Detallado.tex
-INPUT .\3.5 Diseño Conceptual\diseño.tex
-INPUT .\3.5 Diseño Conceptual\diseño.tex
-INPUT 3.5 Diseño Conceptual\diseño.tex
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
-INPUT .\Imagenes\dc1.pdf
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\servo_motor.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\dimensiones_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\cables_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT .\Imagenes\consumo_servo.png
+INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\alcance.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\alcance.tex
+INPUT 3.Cap3\3.1 Metodo-Descripcion\alcance.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.1 Observación.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.1 Observación.tex
+INPUT 3.Cap3\3.1 Metodo-Descripcion\3.1.1 Observación.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.2 Planteamiento de solucion.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.2 Planteamiento de solucion.tex
+INPUT 3.Cap3\3.1 Metodo-Descripcion\3.1.2 Planteamiento de solucion.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.3 Desarrollo.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.3 Desarrollo.tex
+INPUT 3.Cap3\3.1 Metodo-Descripcion\3.1.3 Desarrollo.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.4 Analisis de Datos.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.4 Analisis de Datos.tex
+INPUT 3.Cap3\3.1 Metodo-Descripcion\3.1.4 Analisis de Datos.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.5 Conclusión.tex
+INPUT .\3.Cap3\3.1 Metodo-Descripcion\3.1.5 Conclusión.tex
+INPUT 3.Cap3\3.1 Metodo-Descripcion\3.1.5 Conclusión.tex
+INPUT .\3.Cap3\3.2 Escenario de Aplicacion\3.2.1 Contexto Social.tex
+INPUT .\3.Cap3\3.2 Escenario de Aplicacion\3.2.1 Contexto Social.tex
+INPUT 3.Cap3\3.2 Escenario de Aplicacion\3.2.1 Contexto Social.tex
+INPUT .\3.Cap3\3.3 Cronograma de actividades\3.3.1 Fases del proyecto.tex
+INPUT .\3.Cap3\3.3 Cronograma de actividades\3.3.1 Fases del proyecto.tex
+INPUT 3.Cap3\3.3 Cronograma de actividades\3.3.1 Fases del proyecto.tex
+INPUT .\3.Cap3\3.4 Presupuesto real\3.4.1 Desglose Detallado.tex
+INPUT .\3.Cap3\3.4 Presupuesto real\3.4.1 Desglose Detallado.tex
+INPUT 3.Cap3\3.4 Presupuesto real\3.4.1 Desglose Detallado.tex
+INPUT .\3.Cap3\3.5 Diseño Conceptual\diseño.tex
+INPUT .\3.Cap3\3.5 Diseño Conceptual\diseño.tex
+INPUT 3.Cap3\3.5 Diseño Conceptual\diseño.tex
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
+INPUT .\Imagenes\dc1.png
 INPUT .\Imagenes\ESP32-XIAO-CNN.jpg
 INPUT .\Imagenes\ESP32-XIAO-CNN.jpg
 INPUT .\Imagenes\ESP32-XIAO-CNN.jpg
@@ -588,6 +639,8 @@ INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi12.pfb
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\arlan\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb

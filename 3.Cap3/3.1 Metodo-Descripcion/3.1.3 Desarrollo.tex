@@ -24,7 +24,7 @@
 \begin{itemize}
     \item \textbf{Recopilación de Datos:}
     \begin{itemize}
-        \item Se trata de recopilar un DataSet de Kaggle donde se tengan imágenes de cartón, papel y plástico en diversas condiciones de iluminación y ángulos. Esto nos da la oportunidad de que el modelo sea robusto y pueda manejar variaciones en el entorno real.
+        \item Se trata de recopilar un DataSet, como puede ser un propio o de algun sitio especializado como Kaggle, donde se tengan imágenes de cartón  y plástico en diversas condiciones de iluminación y ángulos. Esto nos da la oportunidad de que el modelo sea robusto y pueda manejar variaciones en el entorno real.
         \item Luego, etiquetaremos las imágenes para crear un conjunto de datos que se utilizará en el entrenamiento del modelo de reconocimiento.
     \end{itemize}
     
@@ -44,7 +44,7 @@
         
         \item \textbf{Sistema de Retroalimentación:}
         \begin{itemize}
-            \item Implementaremos un sistema de retroalimentación visual (por ejemplo, luces LED) que indique al usuario si la clasificación fue correcta o incorrecta. Si el material es reconocido correctamente, se abrirá la compuerta; si no, se podrá mostrar un mensaje en una pantalla o con luces que indiquen que el material no fue clasificado.
+            \item Implementaremos un sistema de retroalimentación visual (por ejemplo, luces LED) que indique al usuario si la clasificación fue correcta o incorrecta. Si el material es reconocido correctamente, se abrirá la compuerta; si no, se podrá mostrar con luces que indiquen que el material no fue clasificado.
         \end{itemize}
     \end{itemize}
 \end{itemize}
@@ -56,5 +56,5 @@
     \item El usuario se acercará al basurero inteligente y presentará el material al módulo ESP32 CAM.
     \item El sistema activará la cámara para tomar una imagen del material.
     \item El algoritmo analizará la imagen y, tras identificar correctamente el material, la compuerta correspondiente se abrirá para que el usuario deposite el residuo.
-    \item En caso de que el material no sea reconocido, se proporcionará retroalimentación al usuario sobre la incorrecta clasificación con el uso del Buzzer.
+    \item En caso de que el material no sea reconocido, se proporcionará retroalimentación al usuario sobre la incorrecta clasificación con el uso de un LED de color rojo.
 \end{itemize}
