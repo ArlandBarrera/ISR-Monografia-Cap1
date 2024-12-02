@@ -1,61 +1,77 @@
-\contentsline {chapter}{\numberline {1}Capítulo 1: Generalidades del Proyecto}{6}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Antecedentes}{6}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Sistema de clasificación inteligente de residuos}{6}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}Sistema de gestión de residuos inteligente basado en IoT}{6}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}Sistema de contenedores de basura basado en IoT que utiliza un microcontrolador NodeMCUu ESP32}{7}{subsection.1.1.3}%
-\contentsline {section}{\numberline {1.2}Identificación del problema}{7}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Objetivo general}{8}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Objetivos específicos}{8}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Justificación}{8}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Delimitaciones}{9}{section.1.6}%
-\contentsline {chapter}{\numberline {2}Capítulo 2: Marco Teórico}{10}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Área de Investigación}{10}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Inteligencia artificial en el reciclaje}{10}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Sostenibilidad}{10}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Microcontroladores}{11}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Uso de Arduino y ESP32}{12}{subsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.4.1}Pines analógicos}{12}{subsubsection.2.1.4.1}%
-\contentsline {subsubsection}{\numberline {2.1.4.2}Pines digitales}{12}{subsubsection.2.1.4.2}%
-\contentsline {subsection}{\numberline {2.1.5}Sistemas de clasificación automática}{14}{subsection.2.1.5}%
-\contentsline {subsection}{\numberline {2.1.6}Aplicaciones de IoT}{15}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Campo de aplicación}{17}{subsection.2.1.7}%
-\contentsline {subsubsection}{\numberline {2.1.7.1}Entornos Urbanos}{17}{subsubsection.2.1.7.1}%
-\contentsline {subsubsection}{\numberline {2.1.7.2}Espacios Comerciales}{18}{subsubsection.2.1.7.2}%
-\contentsline {subsubsection}{\numberline {2.1.7.3}Industria Hotelera}{18}{subsubsection.2.1.7.3}%
-\contentsline {subsubsection}{\numberline {2.1.7.4}Instalaciones Sanitarias}{19}{subsubsection.2.1.7.4}%
-\contentsline {subsubsection}{\numberline {2.1.7.5}Instituciones Educativas}{19}{subsubsection.2.1.7.5}%
-\contentsline {subsection}{\numberline {2.1.8}Futuro del tema de investigación}{19}{subsection.2.1.8}%
-\contentsline {section}{\numberline {2.2}Proyectos similares}{19}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Diseño de un Contenedor Municipal Automático}{19}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Sistema de Clasificación Inteligente de Residuos}{20}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Contenedor de Reciclaje Automatizado de Bajo Costo}{20}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Tecnologías De Desarrollo}{21}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Arduino UNO R3}{21}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}IDE Arduino}{21}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Micropython}{22}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}CNN}{23}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}Visión Artificial}{23}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}TensorFlow Lite}{24}{subsection.2.3.6}%
-\contentsline {subsubsection}{\numberline {2.3.6.1}Edge Impulse}{25}{subsubsection.2.3.6.1}%
-\contentsline {subsection}{\numberline {2.3.7}XIAO ESP32 CAM}{27}{subsection.2.3.7}%
-\contentsline {subsection}{\numberline {2.3.8}Sensor ultrasónico (HC-SR04)}{30}{subsection.2.3.8}%
-\contentsline {subsection}{\numberline {2.3.9}Cables jumper, resistencias, protoboard}{31}{subsection.2.3.9}%
-\contentsline {subsection}{\numberline {2.3.10}Servomotor (MG995)}{32}{subsection.2.3.10}%
-\contentsline {chapter}{\numberline {3}Capítulo 3: Propuesta del Proyecto}{35}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Metodo-Descripcion}{35}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Tipo y alcance de la investigación}{35}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Observación}{35}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Planteamiento de la Solución}{36}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Desarrollo}{36}{subsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.4.1}Desarrollo del Prototipo}{36}{subsubsection.3.1.4.1}%
-\contentsline {subsubsection}{\numberline {3.1.4.2}Integración Electrónica:}{36}{subsubsection.3.1.4.2}%
-\contentsline {subsubsection}{\numberline {3.1.4.3}Programación del Sistema}{37}{subsubsection.3.1.4.3}%
-\contentsline {subsubsection}{\numberline {3.1.4.4}Interacción del Usuario}{38}{subsubsection.3.1.4.4}%
-\contentsline {subsection}{\numberline {3.1.5}Análisis de Datos}{38}{subsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.1.6}Análisis y conclusiones}{39}{subsection.3.1.6}%
-\contentsline {section}{\numberline {3.2}Escenario de Aplicación}{39}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Cronograma de Actividades}{40}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Presupuesto Real}{43}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Diseño conceptual}{44}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Descripción del diseño conceptual planteado}{46}{subsection.3.5.1}%
-\contentsline {chapter}{Bibliografía}{51}{figure.3.1}%
+\contentsline {chapter}{\numberline {1}Capítulo 1: Generalidades del Proyecto}{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Antecedentes}{8}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Sistema de clasificación inteligente de residuos}{8}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Sistema de gestión de residuos inteligente basado en IoT}{8}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Sistema de contenedores de basura basado en IoT que utiliza un microcontrolador NodeMCUu ESP32}{9}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Identificación del problema}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objetivo general}{10}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objetivos específicos}{10}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Justificación}{10}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Delimitaciones}{11}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Capítulo 2: Marco Teórico}{12}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Área de Investigación}{12}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Inteligencia artificial en el reciclaje}{12}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Sostenibilidad}{12}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Microcontroladores}{13}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Uso de Arduino y ESP32}{14}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.4.1}Pines analógicos}{14}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.1.4.2}Pines digitales}{14}{subsubsection.2.1.4.2}%
+\contentsline {subsection}{\numberline {2.1.5}Sistemas de clasificación automática}{16}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Aplicaciones de IoT}{17}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Campo de aplicación}{19}{subsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.7.1}Entornos Urbanos}{19}{subsubsection.2.1.7.1}%
+\contentsline {subsubsection}{\numberline {2.1.7.2}Espacios Comerciales}{20}{subsubsection.2.1.7.2}%
+\contentsline {subsubsection}{\numberline {2.1.7.3}Industria Hotelera}{20}{subsubsection.2.1.7.3}%
+\contentsline {subsubsection}{\numberline {2.1.7.4}Instalaciones Sanitarias}{21}{subsubsection.2.1.7.4}%
+\contentsline {subsubsection}{\numberline {2.1.7.5}Instituciones Educativas}{21}{subsubsection.2.1.7.5}%
+\contentsline {subsection}{\numberline {2.1.8}Futuro del tema de investigación}{21}{subsection.2.1.8}%
+\contentsline {section}{\numberline {2.2}Proyectos similares}{21}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Diseño de un Contenedor Municipal Automático}{21}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Sistema de Clasificación Inteligente de Residuos}{22}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Contenedor de Reciclaje Automatizado de Bajo Costo}{22}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Tecnologías De Desarrollo}{23}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Arduino UNO R3}{23}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}IDE Arduino}{23}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Micropython}{24}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}CNN}{25}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Visión Artificial}{25}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}TensorFlow Lite}{26}{subsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.6.1}Edge Impulse}{27}{subsubsection.2.3.6.1}%
+\contentsline {subsection}{\numberline {2.3.7}Seeed Studio XIAO ESP32S3 Sense}{29}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}Sensor ultrasónico (HC-SR04)}{32}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}Cables jumper, resistencias, protoboard}{33}{subsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.3.10}Servomotor (MG995)}{34}{subsection.2.3.10}%
+\contentsline {chapter}{\numberline {3}Capítulo 3: Propuesta del Proyecto}{37}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Metodo-Descripcion}{37}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Tipo y alcance de la investigación}{37}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Observación}{37}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Planteamiento de la Solución}{38}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Desarrollo}{38}{subsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.4.1}Desarrollo del Prototipo}{38}{subsubsection.3.1.4.1}%
+\contentsline {subsubsection}{\numberline {3.1.4.2}Integración Electrónica:}{38}{subsubsection.3.1.4.2}%
+\contentsline {subsubsection}{\numberline {3.1.4.3}Programación del Sistema}{39}{subsubsection.3.1.4.3}%
+\contentsline {subsubsection}{\numberline {3.1.4.4}Interacción del Usuario}{40}{subsubsection.3.1.4.4}%
+\contentsline {subsection}{\numberline {3.1.5}Análisis de Datos}{40}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Análisis y conclusiones}{41}{subsection.3.1.6}%
+\contentsline {section}{\numberline {3.2}Escenario de Aplicación}{41}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Cronograma de Actividades}{42}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Presupuesto Real}{45}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Diseño conceptual}{47}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Descripción del diseño conceptual planteado}{47}{subsection.3.5.1}%
+\contentsline {chapter}{\numberline {4}Capítulo 4: Construcción del prototipo}{52}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Módulos del Prototipo}{52}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Parte Frontal}{52}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}XIAO ESP32S3}{52}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}LEDs de Alerta Visual}{66}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}Ultrasonico para Distancia de Objeto}{68}{subsubsection.4.1.1.3}%
+\contentsline {subsection}{\numberline {4.1.2}Parte Trasera}{68}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Arduino Uno R3}{68}{subsubsection.4.1.2.1}%
+\contentsline {subsection}{\numberline {4.1.3}Parte Interior}{73}{subsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.3.1}Servomotores Mg995}{73}{subsubsection.4.1.3.1}%
+\contentsline {subsubsection}{\numberline {4.1.3.2}Ultrasonico para Nivel de Llenado}{73}{subsubsection.4.1.3.2}%
+\contentsline {section}{\numberline {4.2}Interfaces del Prototipo}{74}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Pruebas del Prototipo}{77}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Capítulo 5: Conclusiones y Resultados}{79}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusiones}{79}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Resultados}{79}{section.5.2}%
+\contentsline {chapter}{Bibliografía}{80}{section.5.2}%
